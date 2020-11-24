@@ -6,6 +6,8 @@ Dr m.taheri
 
 -----How it works----------
 
-put main code and students code in mainpage
+1-put main code and students code in mainpage
 
-put inputs in a folder with name "input" in main page
+2-put inputs in a folder with name "input" in main page
+
+3-run main.c :)
