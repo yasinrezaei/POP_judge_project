@@ -1,4 +1,4 @@
-"# POP_judge_project" 
+# POP_judge_project 
 
 Final project of principle of programming -spring 99
 
