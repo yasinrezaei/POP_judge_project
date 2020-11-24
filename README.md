@@ -10,4 +10,4 @@ Dr m.taheri
 
 2-put inputs in a folder with name "input" in main page
 
-3-run main.c :)
+3-run judge.c :)
